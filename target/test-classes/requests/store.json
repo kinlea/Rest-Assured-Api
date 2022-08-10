@@ -1,0 +1,8 @@
+{
+  "id": "{{id}}",
+  "petId": "{{petId}}",
+  "quantity": 1,
+  "shipDate": "2022-01-10T10:57:49.924Z",
+  "status": "{{status}}",
+  "complete": true
+}
